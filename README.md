@@ -1,6 +1,4 @@
-![image](https://github.com/user-attachments/assets/08e15eb7-54c8-4939-8f42-0363ba49088b)# PRODIFY - The Nintendo Switch PRODINFO Editor
-
-
+# PRODIFY - The Nintendo Switch PRODINFO Editor
 
 <div align="center">
   <img src="https://github.com/sthetix/PRODIFY/blob/main/prodify.jpg" alt="PRODIFY" width="400"/>
