@@ -1,4 +1,4 @@
-# PRODIFY - The Nintendo Switch PRODINFO Editor
+![image](https://github.com/user-attachments/assets/08e15eb7-54c8-4939-8f42-0363ba49088b)# PRODIFY - The Nintendo Switch PRODINFO Editor
 
 
 
@@ -9,13 +9,16 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/illyasever-lol/PRODIFY-CHN/blob/main/PRODIFYCHN1.3.jpg" alt="PRODIFY" width="400"/>
+  <img src="https://github.com/illyasever-lol/PRODIFY-CHN/blob/main/PRODIFYCHN1.5.jpg" alt="PRODIFY" width="400"/>
   <br>
   <br>
 </div>
 
 ## 基于sthetix的PRODIFY和lsp199308的修改版本
+v1.5
+- 1、增加wlan、蓝牙mac地址读取，并基于新序列号生成、自动写入
 
+v1.3
 - 1、修复序列号区域马来版不正确添加序列号
 - 2、增加NX-Wifi-Region-Changer的wifi区域信道修改功能
 - 3、全部内容、提示、选项汉化
