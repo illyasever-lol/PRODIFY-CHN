@@ -12,6 +12,12 @@
   <br>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/illyasever-lol/PRODIFY-CHN/refs/heads/main/nyx20460507_143159.bmp" alt="PRODIFY" width="400"/>
+  <br>
+  <br>
+</div>
+
 ## 基于sthetix的PRODIFY和lsp199308的修改版本
 v1.5
 - 1、增加wlan、蓝牙mac地址读取，并基于新序列号生成、自动写入
@@ -21,6 +27,7 @@ v1.3
 - 2、增加NX-Wifi-Region-Changer的wifi区域信道修改功能
 - 3、全部内容、提示、选项汉化
 
+可通过sha256检测，修改后WIFI、蓝牙功能均可正常使用
 
                                        Have fun~
 
